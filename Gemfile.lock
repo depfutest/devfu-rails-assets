@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  remote: https://rails-assets.org/
+  specs:
+    minitest (5.9.1)
+    rails-assets-bootstrap (4.0.0)
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rails-assets-bootstrap!
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.15.2
